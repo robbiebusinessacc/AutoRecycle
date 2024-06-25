@@ -9,7 +9,6 @@ Efficient recycling is essential for sustainable waste management. This project 
 - **Notebooks/**: Contains the Jupyter notebook for model training and evaluation.
 - **Data/**: Contains raw and processed datasets used for training and testing.
 - **Models/**: Contains trained model files.
-- **Results/**: Contains performance metrics and evaluation results.
 - **Images/**: Contains images of the prototype and setup.
 - **LICENSE**: Contains the license for the project.
 - **README.md**: Project overview and setup instructions.

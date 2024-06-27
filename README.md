@@ -10,13 +10,10 @@
 - **README.md**: Project overview and setup instructions.
 
 ## Data
-The data used in this project is the RealWaste dataset. 
+The data used in this project is the [RealWaste dataset](https://archive.ics.uci.edu/dataset/908/realwaste). 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-We would like to thank the creators of the RealWaste dataset for their invaluable resources.
 
 ---
 

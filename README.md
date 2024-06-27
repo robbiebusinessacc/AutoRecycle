@@ -9,44 +9,6 @@
 - **LICENSE**: Contains the license for the project.
 - **README.md**: Project overview and setup instructions.
 
-
-## Software Setup
-
-### Prerequisites
-- Arduino IDE
-- Python 3.8+
-- Jupyter Notebook
-- Fastai
-- PyTorch
-- TIMM (PyTorch Image Models)
-- OpenCV
-- Necessary Python libraries: numpy, pandas, matplotlib
-
-### Installation
-1. **Clone the repository**:
-    ```sh
-    git clone https://github.com/yourusername/AutoRecycle.git
-    cd AutoRecycle
-    ```
-
-2. **Set up the Arduino**:
-    - Open `Arduino/arduino_code.ino` in the Arduino IDE.
-    - Connect your Arduino board and upload the code.
-
-3. **Set up the Raspberry Pi**:
-    - Install necessary Python libraries:
-      ```sh
-      pip install -r RaspberryPi/requirements.txt
-      ```
-    - Run the Raspberry Pi code:
-      ```sh
-      python RaspberryPi/raspberry_pi_code.py
-      ```
-
-4. **Run the Jupyter Notebook**:
-    - Navigate to the `Notebooks` directory and open `AutoRecycle_Model_Training.ipynb` in Jupyter Notebook.
-    - Execute the cells to train and evaluate the model.
-
 ## Data
 The data used in this project is the RealWaste dataset. 
 

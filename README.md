@@ -7,6 +7,7 @@ Efficient recycling is essential for sustainable waste management. This project 
 - **Arduino/**: Contains the Arduino code for controlling the servo motor and proximity sensor.
 - **RaspberryPi/**: Contains the Python code for image processing and communication with the Arduino.
 - **Notebooks/**: Contains the Jupyter notebook for model training and evaluation.
+- **DataSplit/**: Contains scripts for separating data into training and testing sets.
 - **Images/**: Contains images of the prototype and setup.
 - **LICENSE**: Contains the license for the project.
 - **README.md**: Project overview and setup instructions.

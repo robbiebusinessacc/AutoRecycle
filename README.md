@@ -1,7 +1,7 @@
 # AutoRecycle: Building an AI-Driven Automated Recycling Bin Using Vision Transformers
 
 
-[Project Website](https://robbiebusinessacc.github.io/).
+[Project Website](https://robbiebusinessacc.github.io/)
 
 ## Repository Structure
 - **Arduino/**: Contains the Arduino code for controlling the servo motor.
